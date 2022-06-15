@@ -23,3 +23,4 @@ do
     key = Console.ReadKey().KeyChar;
     Console.Clear();
 } while (key == 'y');
+Console.WriteLine(decoratedBouquet);
